@@ -2,7 +2,6 @@
 
 The idea is to start creating and hosting information out of a PDF and onto a website. Transparency is our goal and PDFs publish the information but maybe not in the most engaging and accessible format. 
 
-You can use the [editor on GitHub](https://github.com/lwilcock1/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
